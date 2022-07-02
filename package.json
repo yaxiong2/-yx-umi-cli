@@ -1,6 +1,8 @@
 {
-  "name": "yx_umi-cli",
+  "name": "{{ name }}",
   "version": "1.0.0",
+  "description": "{{ description }}",
+  "author": "{{ author }}",
   "scripts": {
     "start": "umi dev",
     "build": "umi build",
